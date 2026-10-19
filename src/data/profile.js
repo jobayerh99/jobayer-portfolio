@@ -23,27 +23,26 @@ export const profileData = {
   // Contact details & placeholders
   contact: {
     // [PLACEHOLDER] Replace with your actual email address
-    email: "jobayer.dev@placeholder.com",
-    emailPlaceholderNotice: "Replace 'jobayer.dev@placeholder.com' with your actual email in src/data/profile.js",
+    email: "jobayerh99@gmail.com",
+    
     
     // [PLACEHOLDER] Replace with your actual phone number
-    phone: "+880 1XXX-XXXXXX",
-    phonePlaceholderNotice: "Replace '+880 1XXX-XXXXXX' with your active phone number in src/data/profile.js",
+    phone: "+880 1731283710",
+    
     
     // [PLACEHOLDER] WhatsApp number (international format e.g. 8801XXXXXXXXX)
-    whatsapp: "+8801XXXXXXXXX",
-    whatsappLink: "https://wa.me/8801XXXXXXXXX",
+    whatsapp: "+8801731283710",
+    
     
     // Confirmed GitHub Profile
     github: "https://github.com/jobayerh99",
     githubUsername: "jobayerh99",
     
     // [PLACEHOLDER] Replace with your actual LinkedIn profile URL
-    linkedin: "https://linkedin.com/in/jobayer-placeholder",
-    linkedinPlaceholderNotice: "Replace with your real LinkedIn profile URL in src/data/profile.js",
+    linkedin: "https://www.linkedin.com/in/jobayer-hosen99/",
     
-    // [PLACEHOLDER] Twitter/X profile (optional)
-    twitter: "https://x.com/placeholder_user",
+    
+    
   },
 
   // Resume configuration
